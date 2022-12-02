@@ -2,7 +2,7 @@
 with open("C:/Users/Philippe/Documents/GitHub/advent-of-code/01 january/exercise1/input.txt",'r') as data:
     input=data.read().splitlines()
 
-# max is the list of the callories carried by the top three elves. It's always sorted.
+# max is the list of the callories carried by the top elve.
 max=0
 # current is the callories carried by the current elve.
 current=0
