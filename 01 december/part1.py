@@ -1,5 +1,5 @@
 #store the datas in a list giving the different lines
-with open("C:/Users/Philippe/Documents/GitHub/advent-of-code/01 january/exercise1/input.txt",'r') as data:
+with open("C:/Users/Philippe/Documents/GitHub/advent-of-code/01 december/input.txt",'r') as data:
     input=data.read().splitlines()
 
 # max is the list of the callories carried by the top elve.
